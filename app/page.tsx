@@ -7,7 +7,7 @@ import ExpandingArrow from "@/components/expanding-arrow";
 
 // Prisma does not support Edge without the Data Proxy currently
 // export const runtime = 'edge'
-export const preferredRegion = "iad1";
+export const preferredRegion = "home";
 export const dynamic = "force-dynamic";
 
 export default function Home() {
